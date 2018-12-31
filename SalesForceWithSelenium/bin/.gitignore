@@ -4,3 +4,12 @@
 /Pages/
 /SalesForceWithSelenium/
 /testngGroup.xml
+/.classpath
+/.project
+/.settings/
+/Resources/
+/Screenshot/
+/debug.log
+/log4j.properties
+/test-output/
+/testng.xml
